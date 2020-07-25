@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1562829151 source:c:\users\lenovo\desktop\my programs\games and ladders\snake game\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<conio.h>
+
